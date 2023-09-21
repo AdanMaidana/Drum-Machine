@@ -1,0 +1,29 @@
+.power-btn p {
+  margin-bottom: 5px;
+}
+
+.power-switch {
+  width: 30%;
+  height: 20px;
+  padding: .2rem;
+  margin: 0 auto;
+  background-color: rgb(0, 0, 0);
+}
+
+.power-switch button {
+  width: 50%;
+  height: 100%;
+  border: 0;
+  cursor: pointer;
+  outline: none;
+}
+
+.on {
+  background-color: rgb(0, 255, 42);
+  float: right;
+}
+
+.off {
+  background-color: rgb(255, 0, 0);
+  float: left;
+}
